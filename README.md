@@ -1,16 +1,11 @@
-# clinical_app
+# DocDoc App 
+Doctor Appointment App 
 
-A new Flutter project.
+▶️ Splash Screen 
+![Splash Screen](https://github.com/Abd2lhakam19/Clinical_app/assets/105023622/265fba29-a47a-45f2-a466-ba1c013efc1f)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+▶️ OnBoarding Screen 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![OnBoardingScreen](https://github.com/Abd2lhakam19/Clinical_app/assets/105023622/0b14ac61-bca2-4596-a329-a1e1c2137c00)
