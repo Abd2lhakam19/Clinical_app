@@ -23,7 +23,7 @@ class GetStartedButton extends StatelessWidget {
         },
         child: Text(
           AppStrings.getStarted,
-          style: TextStyles.font16White600Weight,
+          style: TextStyles.font16WhiteSemiBold,
         ));
   }
 }

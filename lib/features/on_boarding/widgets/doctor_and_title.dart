@@ -30,7 +30,7 @@ class DoctorAndTitle extends StatelessWidget {
             left: 0,
             child: Text(
               AppStrings.doctorAppointment,
-              style: TextStyles.font32MainBlue700weight.copyWith(height: 1.4.h),
+              style: TextStyles.font32MainBlueBold.copyWith(height: 1.4.h),
               textAlign: TextAlign.center,
             ))
       ],
