@@ -1,3 +1,4 @@
+import 'package:clinical_app/core/helpers/app_strings.dart';
 import 'package:clinical_app/core/theming/text_styles.dart';
 import 'package:clinical_app/features/on_boarding/widgets/doc_logo.dart';
 import 'package:clinical_app/features/on_boarding/widgets/doctor_and_title.dart';
@@ -26,14 +27,14 @@ class OnBoardingScreen extends StatelessWidget {
                 child: Column(
                   children: [
                     Text(
-                      "Manage and schedule all of your medical appointments easily with Docdoc to get a new experience.",
+                      AppStrings.appDescription,
                       style: TextStyles.font13Grey400Weight,
                       textAlign: TextAlign.center,
                     ),
                     SizedBox(
                       height: 30.h,
                     ),
-                    GetStartedButton(),
+                    const GetStartedButton(),
                   ],
                 ),
               )
